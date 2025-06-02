@@ -12,7 +12,7 @@
 🌱 Always learning — from neural networks to clean code principles
 
 📫 Visit my LinkedIn [LinkedIn Profile](https://www.linkedin.com/in/tishapatel21)
-or Email me: [pateltisha21@gmail.com] (mailto:pateltisha21@gmail.com)
+or Email me: [pateltisha21@gmail.com](mailto:pateltisha21@gmail.com)
 
 <!---
 tishapatel21/tishapatel21 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
