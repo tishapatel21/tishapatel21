@@ -2,7 +2,9 @@
 💻 Junior Java Developer at T.G.L., focused on backend development and code architecture and Aspiring PhD candidate
 
 🎓 University of Maryland – College Park, 2026 Bachelor of Science in Computer Science (Machine Learning Concentration)
+
 Global Engineering Leadership Minor 
+
 Honors: Banneker/Key Scholar, University Honors Citation, Computer Science Departmental Honors Candidate
 
 
